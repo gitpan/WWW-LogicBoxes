@@ -11,7 +11,7 @@ use English -no_match_vars;
 use Carp qw(croak);
 use Data::Dumper;
 
-our $VERSION = '0.0.1'; # VERSION
+our $VERSION = '0.0.2'; # VERSION
 
 =begin Pod::Coverage
 
