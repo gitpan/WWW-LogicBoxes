@@ -22,7 +22,7 @@ my %module_build_args = (
     "Robert Stone <drzigman\@cpan.org>"
   ],
   "dist_name" => "WWW-LogicBoxes",
-  "dist_version" => "0.0.2",
+  "dist_version" => "0.0.3",
   "license" => "perl",
   "module_name" => "WWW::LogicBoxes",
   "recommends" => {},
@@ -35,6 +35,7 @@ my %module_build_args = (
     "HTTP::Tiny" => 0,
     "IO::Socket::SSL" => 0,
     "URI::Escape" => 0,
+    "XML::LibXML::Simple" => 0,
     "perl" => "v5.10.0"
   },
   "script_files" => []
