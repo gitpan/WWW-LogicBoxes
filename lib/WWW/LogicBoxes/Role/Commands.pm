@@ -13,7 +13,7 @@ use XML::LibXML::Simple qw(XMLin);
 
 use Data::Dumper;
 
-our $VERSION = '0.0.3'; # VERSION
+our $VERSION = '0.0.4'; # VERSION
 
 =begin Pod::Coverage
 

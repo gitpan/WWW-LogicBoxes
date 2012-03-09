@@ -1,3 +1,7 @@
+0.0.4     2012-03-09 11:53:44 America/Chicago
+
+    - Modified tests to skip if username and password are not defined
+
 0.0.3     2012-03-06 19:04:42 America/Chicago
 
     - Added support for xml_simple

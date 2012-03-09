@@ -35,4 +35,4 @@ resources:
   bugtracker: https://github.com/drzigman/www-logicboxes/issues
   homepage: http://search.cpan.org/dist/WWW-LogicBoxes
   repository: git://github.com/drzigman/www-logicboxes.git
-version: 0.0.3
+version: 0.0.4

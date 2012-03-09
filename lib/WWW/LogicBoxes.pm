@@ -13,7 +13,7 @@ use Carp qw(croak);
 #use List::Util "reduce";
 #use vars qw($a $b);
 
-our $VERSION = '0.0.3'; # VERSION
+our $VERSION = '0.0.4'; # VERSION
 # ABSTRACT: Interact with LogicBoxes reseller API
 
 with "WWW::LogicBoxes::Role::Commands";

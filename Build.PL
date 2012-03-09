@@ -22,7 +22,7 @@ my %module_build_args = (
     "Robert Stone <drzigman\@cpan.org>"
   ],
   "dist_name" => "WWW-LogicBoxes",
-  "dist_version" => "0.0.3",
+  "dist_version" => "0.0.4",
   "license" => "perl",
   "module_name" => "WWW::LogicBoxes",
   "recommends" => {},
